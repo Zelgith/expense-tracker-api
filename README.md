@@ -18,5 +18,5 @@ UPSTASH_REDIS_REST_TOKEN=
 3. start the app
 
    ```bash
-   npm run dev
+   npm run start
    ```
