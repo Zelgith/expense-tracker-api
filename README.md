@@ -7,7 +7,7 @@
    ```
 2. setup .env
 
-```
+```bash
 PORT=
 DATABASE_URL=
 
